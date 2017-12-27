@@ -6,6 +6,7 @@
  * Version: 1.0
  * Author: Maks Turtiainen
  * Author URI: http://asteriski.fi
+ * License: GPLv2
  */
 
 /*

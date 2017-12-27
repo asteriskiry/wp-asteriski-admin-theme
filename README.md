@@ -1,2 +1,2 @@
 # asteriski-admin-theme
-Admin theme
+Wordpress admin theme
