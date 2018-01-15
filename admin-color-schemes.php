@@ -10,7 +10,8 @@
  **/
 
 /*
-CSS/SCSS-files published with GPLv2 by Kelly Dwan, Mel Choyce, Dave Whitley, Kate Whitley
+Original CSS/SCSS-files published with GPLv2 by Kelly Dwan, Mel Choyce, Dave Whitley, Kate Whitley
+Changes by Maks Turtiainen 
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
