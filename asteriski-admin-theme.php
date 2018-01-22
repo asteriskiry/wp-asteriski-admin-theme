@@ -3,7 +3,7 @@
  * Plugin Name: Asteriski admin theme
  * Plugin URI: http://asteriski.fi
  * Description: Hallintapaneelin ulkoasua hieman Asteriskimmaksi
- * Version: 1.0
+ * Version: 1.1
  * Author: Maks Turtiainen
  * Author URI: http://asteriski.fi
  * License: GPLv2
@@ -46,8 +46,8 @@ function add_colors() {
     wp_admin_css_color(
         'asteriski', __( 'Asteriski', 'admin_schemes' ),
         plugins_url( "asteriski/colors.css", __FILE__ ),
-        array( '#286e33', '#c19a12', '#d66621', '#348d42' ),
-        array( 'base' => '#286e33', 'focus' => '#c19a12', 'current' => '#d66621' )
+        array( '#17411e', '#c19a12', '#d66621', '#348d42' ),
+        array( 'base' => '#17411e', 'focus' => '#c19a12', 'current' => '#d66621' )
     );
 }
 add_action( 'admin_init', 'add_colors' );
@@ -64,7 +64,7 @@ $args = array(
 }
 add_action('user_register', 'set_default_admin_color');
 
-/* Login-sivun logon */
+/* Login-sivun logo */
 
 function asteriski_custom_login_logo() {
 echo '
