@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Asteriski admin theme
+ * Plugin Name: WP Asteriski admin theme
  * Plugin URI: https://asteriski.fi
  * Description: Hallintapaneelin ulkoasua hieman Asteriskimmaksi
  * Version: 1.1
