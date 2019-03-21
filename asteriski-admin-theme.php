@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Asteriski admin theme
- * Plugin URI: http://asteriski.fi
+ * Plugin URI: https://asteriski.fi
  * Description: Hallintapaneelin ulkoasua hieman Asteriskimmaksi
  * Version: 1.1
- * Author: Maks Turtiainen
- * Author URI: http://asteriski.fi
+ * Author: Maks Turtiainen, Asteriski ry
+ * Author URI: https://github.com/asteriskiry
  * License: GPLv2
  **/
 

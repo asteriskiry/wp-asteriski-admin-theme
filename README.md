@@ -9,3 +9,6 @@ Asteriski-style admin theme plugin for wordpress, can use as a base for own them
 2. Tekee tästä väriteemasta oletusteeman / Make this scheme default
 3. Vaihtaa vasemmassa yläkulmassa olevan Wordpress-logon Asteriskin logoksi / Changes WP-logo to the custom in the top left corner
 4. Vaihtaa login-sivun Wordpress-logon Asteriskin logoksi / Changes login page WP-logo to the custom logo
+
+---
+© Asteriski ry
